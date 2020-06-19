@@ -1,3 +1,5 @@
-# discord
+# shelf
 
-welp rockpaperscissors.py laseb sul discordis mängida arvuti vastu, teine spaghetti näitab sulle hive walleti sisu discordi commandiga
+panen siia igasugust sahtlisse kirjutatud jama
+ 
+
