@@ -1,2 +1,16 @@
 Check nap.py, line 16.
 I think you understand why you need to modify this yourself.
+
+
+So the shell will look something like this
+
+======= RESTART: C:\Users\Anon\Desktop\snippets\nameandpasscreator.py =======
+
+How many accs and passes will I create?: 20
+What should the length be?: 10
+Do you want to include numbers(y/n): y
+Gibberish uppercase/lowercase or both?(u/l/b): u
+Done!
+>>> 
+
+
